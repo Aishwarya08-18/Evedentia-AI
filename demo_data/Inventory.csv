@@ -1,0 +1,4 @@
+order_id,customer_id,customer,product,quantity,amount,status,date
+ORD-1001,C101,Aarav Traders,Laptop,10,720000,Delivered,2026-10-28
+ORD-1002,C102,BlueSky Stores,Monitor,8,96000,Delivered,2026-10-29
+ORD-1003,C103,Cedar Retail,Keyboard,25,37500,Delivered,2026-10-30

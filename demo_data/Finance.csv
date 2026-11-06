@@ -1,0 +1,4 @@
+order_id,customer_id,customer,product,quantity,amount,status,date
+ORD-1001,C101,Aarav Traders,Laptop,12,700000,Paid,2026-10-28
+ORD-1002,C102,BlueSky Stores,Monitor,8,96000,Paid,2026-10-29
+ORD-1003,C103,Cedar Retail,Keyboard,25,37500,Paid,2026-10-30
